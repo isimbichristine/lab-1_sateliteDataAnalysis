@@ -1,0 +1,14 @@
+The country of our choice will be Rwanda and from the `satelite_temperature_data.csv` file, we sort it in descending order of humidity. Here's the extracted data:
+
+| Country | Month  | Temperature | Humidity |
+|---------|--------|-------------|----------|
+| Rwanda  | May    | 21.62       | 89.98    |
+| Rwanda  | June   | 37.77       | 77.56    |
+| Rwanda  | August | 49.28       | 43.97    |
+| Rwanda  | May    | 33.33       | 38.8     |
+| Rwanda  | June   | 21.2        | 66.71    |
+| Rwanda  | May    | 43.15       | 72.97    |
+| Rwanda  | May    | 24.04       | 70.14    |
+| Rwanda  | August | 40.87       | 43.98    |
+| Rwanda  | July   | 26.91       | 43.96    |
+| Rwanda  | May    | 29.99       | 20.95    |
